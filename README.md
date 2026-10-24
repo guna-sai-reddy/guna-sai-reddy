@@ -68,7 +68,7 @@ Built during the **Infosys Springboard Virtual Internship 7.0**. A deployed, ful
 
 ### AquaSense-IoT: Precision Irrigation Decision Support Framework
 
-An intelligent irrigation decision support system that promotes efficient water use by combining machine learning, environmental data and the FAO-56 irrigation methodology.
+An intelligent irrigation decision support system that helps determine when and how much water to apply to agricultural fields, combining soil moisture prediction, environmental data and the FAO-56 irrigation methodology. The goal is data-driven irrigation that reduces unnecessary water use and supports sustainable agriculture.
 
 - Machine learning model that predicts root-zone soil moisture for irrigation planning
 - FAO-56 decision engine that recommends irrigation timing, water depth and estimated water volume
@@ -76,7 +76,7 @@ An intelligent irrigation decision support system that promotes efficient water 
 - Interactive dashboard showing soil moisture trends, field information and recommendations
 - Data validation and provenance to keep data quality high and traceable
 
-**Tech:** Python, FastAPI, Machine Learning, PostgreSQL, Next.js, React &nbsp;|&nbsp; Deployed on Vercel, Render and Neon
+**Tech:** Python, FastAPI, Machine Learning, PostgreSQL, Next.js, React &nbsp;|&nbsp; Deployed on Vercel, Render and Neon &nbsp;|&nbsp; [Live Demo](https://aqua-sense-io-t.vercel.app)
 
 ---
 
