@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4DB&height=200&section=header&text=Guna%20Sai%20Reddy%20Bacchu&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Guna Sai Reddy Bacchu"/>
+# Guna Sai Reddy Bacchu
 
-<!-- OPTIONAL: add your own professional photo. Upload it to this repo as profile.jpg, then remove the comment markers around the line below.
-<img src="profile.jpg" width="150" height="150" alt="Guna Sai Reddy Bacchu"/>
--->
+### Aspiring Software Engineer | Infosys Springboard Virtual Intern
 
-**Aspiring Software Engineer · Infosys Springboard Virtual Intern**
+Python &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL &nbsp;•&nbsp; DSA &nbsp;•&nbsp; ML Fundamentals &nbsp;•&nbsp; RAG & AI Agents
 
-Python · C · SQL · DSA · ML Fundamentals · RAG & AI Agents
-
-B.Tech CSE (2028) · RGMCET, Nandyal, Andhra Pradesh, India
+B.Tech Computer Science & Engineering (2028) &nbsp;|&nbsp; RGMCET, Nandyal, Andhra Pradesh, India
 
 <a href="https://www.linkedin.com/in/gunasaireddybacchu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gunasaireddybacchu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/J3kKcGU0Wu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-**Open to internship opportunities (Software Engineering / AI-ML)**
+**Open to internship opportunities in Software Engineering and AI/ML**
 
 </div>
 
@@ -24,40 +20,52 @@ B.Tech CSE (2028) · RGMCET, Nandyal, Andhra Pradesh, India
 
 ## About
 
-I'm a Computer Science undergraduate who enjoys turning concepts into working software. I build projects in Python and C, practice data structures and algorithms regularly, and am currently exploring Retrieval-Augmented Generation (RAG) and AI agents. As a virtual intern with Infosys Springboard, I'm gaining hands-on exposure to industry-style learning and project work.
+I am a Computer Science undergraduate who enjoys turning concepts into working software. I build projects in Python and C, practice data structures and algorithms regularly, and am currently exploring Retrieval-Augmented Generation (RAG) and AI agents. As an Infosys Springboard virtual intern, I am gaining hands-on exposure to industry-style learning and project work.
+
+---
 
 ## Focus Areas
 
-| Area | What I'm working on |
-|------|---------------------|
+| Area | Details |
+|------|---------|
 | **Software Development** | Writing clean, well-structured code and building real-world projects |
-| **Data Structures & Algorithms** | Consistent problem solving in C and Python on LeetCode |
-| **AI / ML** | ML fundamentals, RAG pipelines and AI agent workflows |
+| **Data Structures & Algorithms** | Regular problem solving in C and Python on LeetCode |
+| **AI / ML** | Machine learning fundamentals, RAG pipelines and AI agent workflows |
 | **Databases** | SQL querying, schema design and data handling |
 
-## Tech Stack
+---
 
-**Core**
+## Technical Skills
 
-<img src="https://skillicons.dev/icons?i=python,c,mysql&perline=8"/>
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, C, SQL |
+| **Computer Science** | Data Structures & Algorithms, Problem Solving |
+| **AI / ML** | ML Fundamentals, RAG, AI Agents |
+| **Also Familiar With** | Java, HTML, CSS, JavaScript |
+| **Tools** | Git, GitHub, VS Code |
 
-**Also familiar with**
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css&perline=8"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8"/>
+---
 
 ## Featured Projects
 
-<!-- Replace each row with a real project. Keep descriptions to one line focused on the problem and the result. -->
+<!-- Replace each row with a real project. Keep each description to one line: the problem and the result. -->
 
-| Project | What it does | Tech |
-|---------|--------------|------|
-| [**Project One**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | Python, SQL |
-| [**Project Two**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | Python, RAG |
-| [**Project Three**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | C, DSA |
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project One](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | Python, SQL |
+| [Project Two](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | Python, RAG |
+| [Project Three](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | C, DSA |
+
+---
+
+## Currently Learning
+
+- Retrieval-Augmented Generation (RAG) and building AI agents
+- Machine Learning fundamentals
+- Advanced SQL and problem-solving patterns in DSA
+
+---
 
 ## GitHub Activity
 
@@ -68,18 +76,12 @@ I'm a Computer Science undergraduate who enjoys turning concepts into working so
 
 </div>
 
-## Currently Learning
+---
 
-- Retrieval-Augmented Generation (RAG) and building AI agents
-- Machine Learning fundamentals
-- Advanced SQL and problem solving patterns in DSA
+## Contact
 
-## Get in Touch
-
-I'm actively looking for internship opportunities. The best ways to reach me:
+I am actively looking for internship opportunities. Feel free to reach out:
 
 - **LinkedIn:** [linkedin.com/in/gunasaireddybacchu](https://www.linkedin.com/in/gunasaireddybacchu)
 - **Email:** gunasaireddybacchu@gmail.com
 - **LeetCode:** [leetcode.com/u/J3kKcGU0Wu](https://leetcode.com/u/J3kKcGU0Wu/)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4DB&height=100&section=footer" width="100%" alt=""/>
