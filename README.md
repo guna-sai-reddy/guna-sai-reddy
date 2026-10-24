@@ -1,129 +1,79 @@
-<h1 align="center">Hi 👋, I'm Guna Sai Reddy Bacchu</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Infosys+Springboard+Virtual+Intern;Python+%7C+C+%7C+SQL+%7C+DSA;ML+Fundamentals+%7C+RAG+%26+AI+Agents;Open+to+Internship+Opportunities" alt="Typing SVG"/>
-</p>
+# Guna Sai Reddy Bacchu
 
-<p align="center">
-  CSE '28 • Rajeev Gandhi Memorial College of Engineering & Technology (RGMCET) • Nandyal, Andhra Pradesh, India 🇮🇳
-</p>
+**Aspiring Software Engineer · Infosys Springboard Virtual Intern**
 
-<p align="center">
-  <a href="https://github.com/guna-sai-reddy">
-    <img src="https://img.shields.io/github/followers/guna-sai-reddy?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://github.com/guna-sai-reddy">
-    <img src="https://komarev.com/ghpvc/?username=guna-sai-reddy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-</p>
+Python · C · SQL · DSA · ML Fundamentals · RAG & AI Agents
 
----
+B.Tech CSE (2028) · RGMCET, Nandyal, Andhra Pradesh, India
 
-## 👨‍💻 About Me
+<a href="https://www.linkedin.com/in/gunasaireddybacchu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gunasaireddybacchu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/J3kKcGU0Wu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-- 🎓 B.Tech Computer Science & Engineering student (Batch of 2028)
-- 💼 **Infosys Springboard Virtual Intern**
-- 🤖 Exploring **Machine Learning fundamentals, RAG & AI Agents**
-- 🧩 Practicing **Data Structures & Algorithms** and problem solving
-- 🛠️ Building **real-world projects** to turn concepts into working software
-- 🔎 **Open to internship opportunities**
-- 💬 Ask me about **Python, C, SQL, DSA, and AI/ML basics**
-- 📫 Reach me at: **gunasaireddybacchu@gmail.com**
+**Open to internship opportunities (Software Engineering / AI-ML)**
+
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## About
 
-**Languages & Core**
+I'm a Computer Science undergraduate who enjoys turning concepts into working software. I build projects in Python and C, practice data structures and algorithms regularly, and am currently exploring Retrieval-Augmented Generation (RAG) and AI agents. As a virtual intern with Infosys Springboard, I'm gaining hands-on exposure to industry-style learning and project work.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</p>
+## Focus Areas
 
-**AI / ML**
+| Area | What I'm working on |
+|------|---------------------|
+| **Software Development** | Writing clean, well-structured code and building real-world projects |
+| **Data Structures & Algorithms** | Consistent problem solving in C and Python on LeetCode |
+| **AI / ML** | ML fundamentals, RAG pipelines and AI agent workflows |
+| **Databases** | SQL querying, schema design and data handling |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ML%20Fundamentals-0E75B6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge"/>
-</p>
+## Tech Stack
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql&perline=8"/>
 
 **Also familiar with**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css&perline=8"/>
 
 **Tools**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8"/>
 
----
+## Featured Projects
 
-## 🚀 Featured Projects
+<!-- Replace each row with a real project. Keep descriptions to one line focused on the problem and the result. -->
 
-<!-- Replace the placeholders below with your real projects. Delete this comment when done. -->
+| Project | What it does | Tech |
+|---------|--------------|------|
+| [**Project One**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | Python, SQL |
+| [**Project Two**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | Python, RAG |
+| [**Project Three**](https://github.com/guna-sai-reddy/REPO-NAME) | One line: the problem it solves and the outcome | C, DSA |
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name 1](https://github.com/guna-sai-reddy/REPO-NAME) | One line about what it does and the problem it solves | Python, SQL |
-| [Project Name 2](https://github.com/guna-sai-reddy/REPO-NAME) | One line about what it does and the problem it solves | Python, RAG |
-| [Project Name 3](https://github.com/guna-sai-reddy/REPO-NAME) | One line about what it does and the problem it solves | C, DSA |
+## GitHub Activity
 
----
+<div align="center">
 
-## 🌱 Currently Learning
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guna-sai-reddy&show_icons=true&theme=default&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guna-sai-reddy&layout=compact&theme=default&hide_border=true"/>
 
-- 🤖 Machine Learning fundamentals
-- 🔗 Retrieval-Augmented Generation (RAG) and AI Agents
-- 🧩 Data Structures & Algorithms
-- 🗄️ Advanced SQL
-- 🚀 Building and shipping real-world projects
+</div>
 
----
+## Currently Learning
 
-## 📈 GitHub Stats
+- Retrieval-Augmented Generation (RAG) and building AI agents
+- Machine Learning fundamentals
+- Advanced SQL and problem solving patterns in DSA
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guna-sai-reddy&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guna-sai-reddy&layout=compact&theme=tokyonight"/>
-</p>
+## Get in Touch
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=guna-sai-reddy&theme=tokyonight"/>
-</p>
+I'm actively looking for internship opportunities. The best ways to reach me:
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gunasaireddybacchu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/J3kKcGU0Wu/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="mailto:gunasaireddybacchu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/guna369_official_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h4 align="center">
-🚀 Always Learning • Always Building • Always Improving
-</h4>
+- **LinkedIn:** [linkedin.com/in/gunasaireddybacchu](https://www.linkedin.com/in/gunasaireddybacchu)
+- **Email:** gunasaireddybacchu@gmail.com
+- **LeetCode:** [leetcode.com/u/J3kKcGU0Wu](https://leetcode.com/u/J3kKcGU0Wu/)
