@@ -1,6 +1,10 @@
 <div align="center">
 
-# Guna Sai Reddy Bacchu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4DB&height=200&section=header&text=Guna%20Sai%20Reddy%20Bacchu&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Guna Sai Reddy Bacchu"/>
+
+<!-- OPTIONAL: add your own professional photo. Upload it to this repo as profile.jpg, then remove the comment markers around the line below.
+<img src="profile.jpg" width="150" height="150" alt="Guna Sai Reddy Bacchu"/>
+-->
 
 **Aspiring Software Engineer · Infosys Springboard Virtual Intern**
 
@@ -77,3 +81,5 @@ I'm actively looking for internship opportunities. The best ways to reach me:
 - **LinkedIn:** [linkedin.com/in/gunasaireddybacchu](https://www.linkedin.com/in/gunasaireddybacchu)
 - **Email:** gunasaireddybacchu@gmail.com
 - **LeetCode:** [leetcode.com/u/J3kKcGU0Wu](https://leetcode.com/u/J3kKcGU0Wu/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00B4DB&height=100&section=footer" width="100%" alt=""/>
