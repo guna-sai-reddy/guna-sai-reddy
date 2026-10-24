@@ -9,7 +9,7 @@ Python &nbsp;•&nbsp; C &nbsp;•&nbsp; SQL &nbsp;•&nbsp; DSA &nbsp;•&nbsp;
 B.Tech Computer Science & Engineering (2028) &nbsp;|&nbsp; RGMCET, Nandyal, Andhra Pradesh, India
 
 <a href="https://www.linkedin.com/in/gunasaireddybacchu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:gunasaireddybacchu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gunasaireddybacchu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/J3kKcGU0Wu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 **Open to internship opportunities in Software Engineering and AI/ML**
@@ -104,5 +104,5 @@ An intelligent irrigation decision support system that helps determine when and 
 I am actively looking for internship opportunities. Feel free to reach out:
 
 - **LinkedIn:** [linkedin.com/in/gunasaireddybacchu](https://www.linkedin.com/in/gunasaireddybacchu)
-- **Email:** gunasaireddybacchu@gmail.com
+- **Email:** [gunasaireddybacchu@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=gunasaireddybacchu@gmail.com)
 - **LeetCode:** [leetcode.com/u/J3kKcGU0Wu](https://leetcode.com/u/J3kKcGU0Wu/)
