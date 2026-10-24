@@ -39,9 +39,12 @@ I am a Computer Science undergraduate who enjoys turning concepts into working s
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python, C, SQL |
+| **Languages** | Python, C, SQL, TypeScript |
 | **Computer Science** | Data Structures & Algorithms, Problem Solving |
-| **AI / ML** | ML Fundamentals, RAG, AI Agents |
+| **AI / ML** | ML Fundamentals, Predictive Modeling, RAG, AI Agents |
+| **Backend & Data** | FastAPI, REST APIs, PostgreSQL |
+| **Frontend** | Next.js, React |
+| **Deployment** | Vercel, Render, Neon |
 | **Also Familiar With** | Java, HTML, CSS, JavaScript |
 | **Tools** | Git, GitHub, VS Code |
 
@@ -49,13 +52,31 @@ I am a Computer Science undergraduate who enjoys turning concepts into working s
 
 ## Featured Projects
 
-<!-- Replace each row with a real project. Keep each description to one line: the problem and the result. -->
+### ReliefGrid: AI-Powered Emergency Response Intelligence Platform
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project One](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | Python, SQL |
-| [Project Two](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | Python, RAG |
-| [Project Three](https://github.com/guna-sai-reddy/REPO-NAME) | One line on the problem it solves and the outcome | C, DSA |
+Built during the **Infosys Springboard Virtual Internship 7.0**. A deployed, full-stack platform that brings disaster information together in one place so emergency teams can make faster, better-informed decisions.
+
+- AI-based predictions and risk assessment for disaster scenarios
+- Incident reporting, alerts, mission coordination and relief resource management
+- Interactive maps and a centralized dashboard
+- Real-time communication, authentication and API integration
+- Deployed to the cloud with a live frontend, backend and PostgreSQL database
+
+**Tech:** Python, Machine Learning, PostgreSQL, REST APIs, TypeScript &nbsp;|&nbsp; [Source Code](https://github.com/guna-sai-reddy/reliefgrid) &nbsp;|&nbsp; [Live Demo](https://lnkd.in/dj9WWSrJ)
+
+---
+
+### AquaSense-IoT: Precision Irrigation Decision Support Framework
+
+An intelligent irrigation decision support system that promotes efficient water use by combining machine learning, environmental data and the FAO-56 irrigation methodology.
+
+- Machine learning model that predicts root-zone soil moisture for irrigation planning
+- FAO-56 decision engine that recommends irrigation timing, water depth and estimated water volume
+- Integrates NASA SMAP satellite soil moisture data with ground-sensor observations
+- Interactive dashboard showing soil moisture trends, field information and recommendations
+- Data validation and provenance to keep data quality high and traceable
+
+**Tech:** Python, FastAPI, Machine Learning, PostgreSQL, Next.js, React &nbsp;|&nbsp; Deployed on Vercel, Render and Neon
 
 ---
 
